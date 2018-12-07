@@ -12,4 +12,4 @@ add a line 5th
 
 add a line 6th
 
-creating a new branch is quick and simple
+creating a new branch is quick and simple 冲突解决
